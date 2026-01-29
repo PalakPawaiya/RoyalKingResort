@@ -140,7 +140,7 @@
             <div class="hp-room-items">
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
-                        <div class="hp-room-item set-bg" data-setbg="<?php echo base_url('public/fe/img/room/room-b1.jpg') ?>">
+                        <div class="hp-room-item set-bg" data-setbg="<?php echo base_url('public/fe/images/DSC06532.jpg') ?>">
                             <div class="hr-text">
                                 <h3>Double Room</h3>
                                 <h2>199$<span>/Pernight</span></h2>
@@ -198,7 +198,7 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="hp-room-item set-bg" data-setbg="<?php echo base_url('public/fe/img/room/room-b3.jpg') ?>">
+                        <div class="hp-room-item set-bg" data-setbg="<?php echo base_url('public/fe/images/DSC06525.jpg') ?>">
                             <div class="hr-text">
                                 <h3>Deluxe Room</h3>
                                 <h2>198$<span>/Pernight</span></h2>
@@ -329,7 +329,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-4">
-                    <div class="blog-item set-bg" data-setbg="<?php echo base_url('public/fe/img/blog/blog-1.jpg') ?>">
+                    <div class="blog-item set-bg" data-setbg="<?php echo base_url('public/fe/images/DSC06572.jpg') ?>">
                         <div class="bi-text">
                             <span class="b-tag">Travel Trip</span>
                             <h4><a href="#">Tremblant In Canada</a></h4>
@@ -338,7 +338,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="blog-item set-bg" data-setbg="<?php echo base_url('public/fe/img/blog/blog-2.jpg') ?>">
+                    <div class="blog-item set-bg" data-setbg="<?php echo base_url('public/fe/images/DSC06571.jpg') ?>">
                         <div class="bi-text">
                             <span class="b-tag">Camping</span>
                             <h4><a href="#">Choosing A Static Caravan</a></h4>
@@ -347,7 +347,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="blog-item set-bg" data-setbg="<?php echo base_url('public/fe/img/blog/blog-3.jpg') ?>">
+                    <div class="blog-item set-bg" data-setbg="<?php echo base_url('public/fe/images/DSC06567.jpg') ?>">
                         <div class="bi-text">
                             <span class="b-tag">Event</span>
                             <h4><a href="#">Copper Canyon</a></h4>
@@ -356,7 +356,7 @@
                     </div>
                 </div>
                 <div class="col-lg-8">
-                    <div class="blog-item small-size set-bg" data-setbg="<?php echo base_url('public/fe/img/blog/blog-wide.jpg') ?>">
+                    <div class="blog-item small-size set-bg" data-setbg="<?php echo base_url('public/fe/images/DSC06557.jpg') ?>">
                         <div class="bi-text">
                             <span class="b-tag">Event</span>
                             <h4><a href="#">Trip To Iqaluit In Nunavut A Canadian Arctic City</a></h4>
@@ -365,7 +365,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="blog-item small-size set-bg" data-setbg="<?php echo base_url('public/fe/img/blog/blog-10.jpg') ?>">
+                    <div class="blog-item small-size set-bg" data-setbg="<?php echo base_url('public/fe/images/DSC06543.jpg') ?>">
                         <div class="bi-text">
                             <span class="b-tag">Travel</span>
                             <h4><a href="#">Traveling To Barcelona</a></h4>

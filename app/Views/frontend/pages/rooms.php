@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="room-item">
-                        <img src="<?php echo base_url('public/fe/img/room/room-1.jpg') ?>" alt="">
+                        <img src="<?php echo base_url('public/fe/images/DSC06504.jpg') ?>" alt="">
                         <div class="ri-text">
                             <h4>Premium King Room</h4>
                             <h3>159$<span>/Pernight</span></h3>
@@ -55,7 +55,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-item">
-                        <img src="img/room/room-2.jpg" alt="">
+                        <img src="<?php echo base_url('public/fe/images/DSC06522.jpg') ?>" alt="">
                         <div class="ri-text">
                             <h4>Deluxe Room</h4>
                             <h3>159$<span>/Pernight</span></h3>
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-item">
-                        <img src="img/room/room-3.jpg" alt="">
+                        <img src="<?php echo base_url('public/fe/images/DSC06505.jpg') ?>" alt="">
                         <div class="ri-text">
                             <h4>Double Room</h4>
                             <h3>159$<span>/Pernight</span></h3>
@@ -115,7 +115,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-item">
-                        <img src="img/room/room-4.jpg" alt="">
+                        <img src="<?php echo base_url('public/fe/images/DSC06538.jpg') ?>" alt="">
                         <div class="ri-text">
                             <h4>Luxury Room</h4>
                             <h3>159$<span>/Pernight</span></h3>
@@ -145,7 +145,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-item">
-                        <img src="img/room/room-5.jpg" alt="">
+                        <img src="<?php echo base_url('public/fe/images/DSC06547.jpg') ?>" alt="">
                         <div class="ri-text">
                             <h4>Room With View</h4>
                             <h3>159$<span>/Pernight</span></h3>
@@ -175,7 +175,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-item">
-                        <img src="img/room/room-6.jpg" alt="">
+                        <img src="<?php echo base_url('public/fe/images/DSC06548.jpg') ?>" alt="">
                         <div class="ri-text">
                             <h4>Small View</h4>
                             <h3>159$<span>/Pernight</span></h3>

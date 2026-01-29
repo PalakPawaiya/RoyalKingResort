@@ -1,0 +1,18 @@
+/* FORCE content full width */
+.content,
+.page-content,
+.main-content {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* FORCE table full width */
+#citiesTable {
+    width: 100% !important;
+}
+
+/* If wrapper exists */
+.table-responsive {
+    width: 100% !important;
+}
